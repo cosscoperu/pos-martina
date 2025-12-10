@@ -1,0 +1,1 @@
+export const HoloCard = ({children}) => <div>{children}</div>;

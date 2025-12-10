@@ -1,0 +1,1 @@
+export const App = () => <div>POS Futurista 2080</div>;
